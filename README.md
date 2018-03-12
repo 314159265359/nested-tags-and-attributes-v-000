@@ -10,7 +10,7 @@ Tags can be nested as demonstrated in the navigation snippet below.
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web development course</title>
+    <title>Web development</title>
   </head>
   <body>
     <header>
